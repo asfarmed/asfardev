@@ -1,15 +1,24 @@
 {
   "name": "قروبات واتس اب كل يوم",
   "short_name": "قروبات واتس اب كل يوم",
-  "lang": "fr-FR",
+  "lang": "ar-AR",
   "start_url": "https://ar.invite-link.com/",
   "scope": "https://ar.invite-link.com/",
   "display": "fullscreen",
   "theme_color": "#1adf86",
+  "background_color": "#c46a00"
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/PQplYTv8f8V-jfvp0v9ZPNbTxcUY_VLdksLplhqiYyEMo-xoab4-CSGu3hepzir9DFY=w192",
-      "sizes": "192x192"
+      "src": "https://lh3.googleusercontent.com/-rpHK6raUx50/X9qWIG9eATI/AAAAAAAABrc/AZZCpUXPrdsmb3XtTVirDGM1FbT5wZ1AQCLcBGAsYHQ/w192-h192-rw/logo.png",
+      "sizes": "192x192",
+        "purpose": "any maskable"
+
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-rpHK6raUx50/X9qWIG9eATI/AAAAAAAABrc/AZZCpUXPrdsmb3XtTVirDGM1FbT5wZ1AQCLcBGAsYHQ/w512-h512-rw/logo.png",
+      "sizes": "512x512",
+            "purpose": "any maskable"
+
     }
   ],
   "related_applications": [
